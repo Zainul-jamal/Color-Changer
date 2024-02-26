@@ -25,8 +25,18 @@ buttons.forEach(function(button){
         if (e.target.id === 'aqua') {
             body.style.backgroundColor = e.target.id;
         }
-
-
+        if (e.target.id === 'blueviolet') {
+            body.style.backgroundColor = e.target.id;
+        } if (e.target.id === 'chartreuse') {
+            body.style.backgroundColor = e.target.id;
+        } if (e.target.id === 'darkcyan') {
+            body.style.backgroundColor = e.target.id;
+        } if (e.target.id === 'deeppink') {
+            body.style.backgroundColor = e.target.id;
+        }
+         if (e.target.id === 'bisque') {
+            body.style.backgroundColor = e.target.id;
+        }
     })
 
 });
